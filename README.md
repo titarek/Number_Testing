@@ -4,8 +4,8 @@ This repository contains a practice Bash script created as part of my coursework
 The script takes a number from the user and provides a menu with options to perform different operations.
 
 ---
-## OutpuT Screenshots
-
+## Output Screenshot
+![image_alt](https://github.com/titarek/Number_Testing/blob/6979981ccf47cfe551ea50a362fc8921a3466be5/output.png)
 
 ## 🎯 Aim
 To write a Bash script that:
