@@ -1,7 +1,6 @@
-# 📝 Number Testing (Bash Script)
+# 📝 Number Testing  
 
-This repository contains a practice Bash script created as part of my coursework.  
-The script takes a number from the user and provides a menu with options to perform different operations.
+ The script takes a number from the user and provides a menu with options to perform different operations.
 
 ---
 ## Output Screenshot
