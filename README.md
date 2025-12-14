@@ -38,11 +38,3 @@ To write a Bash script that:
 - Exit option
 
 ---
-
-## ▶️ How to Run
-1. Clone or download this repo
-2. Open terminal and go to the folder
-3. Run the script:
-
-```bash
-bash source.sh
